@@ -1,5 +1,5 @@
-DOMAIN,sequoia.apple.com,Proxy
-DOMAIN,seed-sequoia.siri.apple.com,Proxy
+DOMAIN,sequoia.apple.com
+DOMAIN,seed-sequoia.siri.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
 DOMAIN-SUFFIX,aaplimg.com
